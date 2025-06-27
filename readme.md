@@ -59,10 +59,11 @@ Inferență: Deși nu este un marker direct al stresului, temperatura poate refl
 
 <p></p>
 
-<p>Rolul marcajelor temporale – tags.csv
+<p>Rolul marcajelor temporale – tags
 <br>
 Fișierul tags.csv a avut un rol esențial în întregul proces de analiză, oferind puncte de referință temporale obiective pentru a interpreta semnalele fiziologice în contextul unor evenimente reale (precum începerea unui test sau momente de pauză).
-Fiecare valoare din tags.csv corespunde unui eveniment marcat de utilizator prin apăsarea unui buton, sincronizat cu ceasul intern al dispozitivului. Aceste momente au fost transformate în secunde relative față de începutul sesiunii și apoi suprapuse peste graficele semnalelor analizate.
+<br>
+Fiecare valoare din tags corespunde unui eveniment marcat de utilizator prin apăsarea unui buton, sincronizat cu ceasul intern al dispozitivului. Aceste momente au fost transformate în secunde relative față de începutul sesiunii și apoi suprapuse peste graficele semnalelor analizate.
 </p>
 
 
